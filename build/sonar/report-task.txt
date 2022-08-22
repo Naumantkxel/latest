@@ -1,0 +1,6 @@
+projectKey=aisehi
+serverUrl=http://172.17.0.2:9000
+serverVersion=9.6.0.59041
+dashboardUrl=http://172.17.0.2:9000/dashboard?id=aisehi
+ceTaskId=AYLCJ4gmXMZUMVl9mJZo
+ceTaskUrl=http://172.17.0.2:9000/api/ce/task?id=AYLCJ4gmXMZUMVl9mJZo
