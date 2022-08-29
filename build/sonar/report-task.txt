@@ -1,6 +1,6 @@
-projectKey=sqp_5aa9f2d306647136df4de8038bfb7b94c954a16f
-serverUrl=http://10.0.8.139:9000
+projectKey=sqp_11bc110c36dabf5fa782b3ec4435ea6cbd165aa0
+serverUrl=http://localhost:9000
 serverVersion=9.6.0.59041
-dashboardUrl=http://10.0.8.139:9000/dashboard?id=sqp_5aa9f2d306647136df4de8038bfb7b94c954a16f
-ceTaskId=AYLEo9jxXqKMmZzqoSO7
-ceTaskUrl=http://10.0.8.139:9000/api/ce/task?id=AYLEo9jxXqKMmZzqoSO7
+dashboardUrl=http://localhost:9000/dashboard?id=sqp_11bc110c36dabf5fa782b3ec4435ea6cbd165aa0
+ceTaskId=AYLpOaC2vKVNNV6NhlQ2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYLpOaC2vKVNNV6NhlQ2

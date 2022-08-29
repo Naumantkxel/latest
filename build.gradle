@@ -4,12 +4,12 @@ plugins {
 }
 sonarqube {
     properties {
-        property 'sonar.host.url', 'http://10.0.8.139:9000'
+        property 'sonar.host.url', 'http://localhost:9000'
         property "sonar.login", "admin"
         property "sonar.password", "admin1"
         property "sonar.sources", "testfile.java"
-        property "sonar.projectKey", "sqp_5aa9f2d306647136df4de8038bfb7b94c954a16f"
-        property 'sonar.projectName', 'project1'
+        property "sonar.projectKey", "sqp_11bc110c36dabf5fa782b3ec4435ea6cbd165aa0"
+        property 'sonar.projectName', 'assignment1'
         property 'sonar.java.source', 11
         property 'sonar.junit.reportPaths', 'build/results'
         property 'encoding', 'UTF-8'
