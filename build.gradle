@@ -4,7 +4,7 @@ plugins {
 }
 sonarqube {
     properties {
-        property 'sonar.host.url', 'http://localhost:9000'
+        property 'sonar.host.url', 'http://172.17.0.4:9000'
         property "sonar.login", "admin"
         property "sonar.password", "admin1"
         property "sonar.sources", "testfile.java"
